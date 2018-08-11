@@ -1,0 +1,17 @@
+{
+  "name": "ninjaman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel Lynch",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "dependencies": {
+    "requirejs": "^2.3.5"
+  }
+}
